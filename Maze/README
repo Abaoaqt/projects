@@ -1,5 +1,0 @@
-To compile:
-javac -cp .:mazeSolver/SampleSolver.jar *.java
-
-To run:
-java -cp .:mazeSolver/SampleSolver.jar MazeTester inputFilename n
