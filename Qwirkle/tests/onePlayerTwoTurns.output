@@ -1,0 +1,63 @@
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+Invalid input. Please type in a number (1-4)!
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+Starting a new game
+
+Enter number of players:
+Enter a name for player 1 (uppercase characters only)
+Let's Play!
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Player: DAVE -- Score: 0
+Your hand is 
+R6 O6 Y6 G6 B6 P6
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Player: DAVE -- Score: 0
+Your hand is 
+R6 O6 Y6 G6 B6 P6
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |O6|  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Player: DAVE -- Score: 1
+Your hand is 
+R6 Y6 G6 B6 P6 P5
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |O6|  |  |
+D |  |  |  |B6|  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Player: DAVE -- Score: 3
+Your hand is 
+R6 Y6 G6 P6 P5 B5
+Goodbye
