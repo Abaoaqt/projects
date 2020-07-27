@@ -1,0 +1,30 @@
+{
+    "aef_1": {
+        "code": "aef",
+        "type": "crossing_down",
+        "value": 6.26,
+        "date_end": null,
+        "persistence": false
+    },
+    "apx_1": {
+        "code": "apx",
+        "type": "crossing_down",
+        "value": 35,
+        "date_end": null,
+        "persistence": false
+    },
+    "cda_1": {
+        "code": "cda",
+        "type": "crossing_down",
+        "value": 5,
+        "date_end": null,
+        "persistence": false
+    },
+    "kgn_1": {
+        "code": "kgn",
+        "type": "crossing",
+        "value": 40,
+        "date_end": null,
+        "persistence": false
+    }
+}
